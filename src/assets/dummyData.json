@@ -1,0 +1,182 @@
+{
+    "pageName": "mymedia.one",
+    "heading": [
+        {
+            "title": "Home"
+        },
+        {
+            "title": "StartUp"
+        },
+        {
+            "title": "Package"
+        },
+        {
+            "title": "Service"
+        },
+        {
+            "title": "Order"
+        },
+        {
+            "title": "Hosting"
+        },
+        {
+            "title": "Existing"
+        },
+        {
+            "title": "Client"
+        },
+        {
+            "title": "Contacts"
+        }
+    ],
+    "ourservices": {
+        "title": "Our Services",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "segment": [
+            {
+                "serviceData": {
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+                    "btnName": "Have A Project"
+                },
+                "img": "md-heart-outline",
+                "serviceName": "Creative Design"
+            },
+            {
+                "serviceData": {
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+                    "btnName": "Have A Project"
+                },
+                "serviceName": "Brand & Identity",
+                "img": "md-desktop"
+            },
+            {
+                "serviceData": {
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+                    "btnName": "Have A Project"
+                },
+                "serviceName": "Web Publication",
+                "img": "md-bookmarks"
+            },
+            {
+                "serviceData": {
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+                    "btnName": "Have A Project"
+                },
+                "serviceName": "Motion Graphics",
+                "img": "md-videocam"
+            }
+        ]
+    },
+    "portfolio": {
+        "title": "Portfolio",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "list": [
+            "All",
+            "Creative Design",
+            "Brand & Identity",
+            "Web Publication",
+            "Motion Graphics"
+        ],
+        "imgs": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    "blogPost": {
+        "title": "Blog Post",
+        "blogPostImg": [
+            {
+                "image": "1"
+            },
+            {
+                "image": "2"
+            },
+            {
+                "image": "3"
+            }
+        ],
+        "label1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "label2": " Lorem Ipsum has been the industry's Lorem Ipsum has been the  industry's standard dummy text ever since the 1500s.standard dummy text ever since the 1500s."
+    },
+    "testtimonal": {
+        "title": "Testtimonal",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "img": "people",
+        "name": "John Doe",
+        "post": "Marketing Manager"
+    },
+    "about": {
+        "title": "About",
+        "desc": "MediaOne TV is widely accepted by Malayalis because of its alternative media culture based on moral and human values."
+    },
+    "blogRoll": {
+        "title": "Blog Roll",
+        "desc": [
+            {
+                "value": "FAQ"
+            },
+            {
+                "value": "Terms & Conditions"
+            },
+            {
+                "value": "Wordpress"
+            },
+            {
+                "value": "Design"
+            },
+            {
+                "value": "Joomla"
+            },
+            {
+                "value": "Magento"
+            }
+        ]
+    },
+    "latestNews": {
+        "title": "Latest News",
+        "desc": [
+            {
+                "value": "Its alternative media culture based on moral and human values."
+            },
+            {
+                "value": "The channel boasts of the highly advanced technology, presents a unique."
+            }
+        ]
+    },
+    "contactUs": {
+        "title": "Contact US",
+        "desc": [
+            {
+                "value": "Company @Website.com",
+                "key": "md-mail"
+            },
+            {
+                "value": "+1098765432",
+                "key": "md-call"
+            },
+            {
+                "value": "Hno. 456 Kharadi Pune",
+                "key": "md-navigate"
+            }
+        ],
+        "contactLogo": [
+            {
+                "logo": "logo-facebook"
+            },
+            {
+                "logo": "logo-twitter"
+            },
+            {
+                "logo": "logo-googleplus"
+            },
+            {
+                "logo": "logo-github"
+            },
+            {
+                "logo": "logo-linkedin"
+            }
+        ]
+    }
+}
