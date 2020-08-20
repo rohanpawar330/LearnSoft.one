@@ -11,7 +11,7 @@
 4. Now `ionic serve` to ren and open the project in the default browser."I'll recomment to copy the open project localhost link and paste in chrome to run".
 5. LearnSoft is the dummy static web page and also responsive with stunning css and hover effects.
 
-![alt text](https://github.com/[rohanpawar330]/[LearnSoft.one]/blob/[master]/image--000.jpg?raw=true)
+![LearnSoft.one](https://github.com/rohanpawar330/LearnSoft.one/blob/master/image--000.jpg?raw=true)
 
 Thanks & Regards
 Rohan Pawar
