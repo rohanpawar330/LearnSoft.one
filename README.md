@@ -2,9 +2,9 @@
 
 ## How to Run this Project
 1. Make sure that you have Nodejs, Angular CLI and Ionic CLI installed if not click the link below.
-[Nodejs](https://nodejs.org/en/)
-[Angular CLI](https://cli.angular.io/)
-[Ionic CLI](https://ionicframework.com/docs/intro/cli)
+* [Nodejs](https://nodejs.org/en/)
+* [Angular CLI](https://cli.angular.io/)
+* [Ionic CLI](https://ionicframework.com/docs/intro/cli)
    
 2. Pull(download) the repo & Now navigate to project through terminal or cli as per your machine.
 3. Now `npm i` run this to installed the node package associated to project.
